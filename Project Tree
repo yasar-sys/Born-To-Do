@@ -1,0 +1,23 @@
+born_to_do/
+├── android/
+├── ios/
+├── lib/
+│   ├── main.dart ✅
+│   ├── theme/
+│   │   └── app_theme.dart ✅
+│   ├── db/
+│   │   └── task_database.dart ✅
+│   ├── models/
+│   │   └── task_model.dart ✅
+│   ├── screens/
+│   │   ├── splash_screen.dart ✅
+│   │   ├── home_screen.dart ✅
+│   │   └── add_task_screen.dart ✅
+│   └── widgets/
+│       └── task_tile.dart ✅
+├── pubspec.yaml ✅
+├── assets/ (optional icons/fonts/images)
+│   └── (Add icons here if needed)
+├── README.md ✅
+├── .gitignore ✅
+└── LICENSE (optional)
